@@ -11,6 +11,9 @@ Objectif de l'atelier :
 - À quoi servent des fonctions easing.
 - Rôle principal des fonctions easing : faire des animations douces
 
+refs : http://robertpenner.com/easing/
+
+
 (brouillons) : 
 ```txt
 v = d / t
